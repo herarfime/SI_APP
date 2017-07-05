@@ -22,7 +22,8 @@ function pad2(number) {
 	return (number < 10 ? '0' : '') + number
 }
 
-var myaudioURL = 'http://icecasthd.net:25482/xhsi';
+var myaudioURL = 'http://icecasthd.net:25574/xhsi';
+                  
  
 
 /*var myaudioURL = 'http://stream.4zzzfm.org.au:789/;';*/

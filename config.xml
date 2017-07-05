@@ -2,8 +2,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "net.sirac.xhsi"
-         versionCode = "99"
-        version   = "31.0.3">		
+         versionCode = "101"
+        version   = "32.1.4">		
 	
 		
     <name>XHSI 92.1 FM</name>
